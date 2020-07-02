@@ -1,0 +1,28 @@
+{
+  "name": "onetickerp",
+  "version": "1.1.1",
+  "description": "erp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "express-validator": "^6.5.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "morgan": "^1.10.0",
+    "msnodesqlv8": "^1.1.5",
+    "mssql": "^6.2.0",
+    "node-datetime": "^2.1.2",
+    "node-mssql": "0.0.1",
+    "tedious": "^8.3.0",
+    "validatorjs": "^3.18.1"
+  }
+}
